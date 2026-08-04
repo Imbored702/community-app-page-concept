@@ -1,1 +1,1 @@
-# community-app-idea-solution
+# community-app-page-template
