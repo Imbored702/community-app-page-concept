@@ -6,6 +6,7 @@ html,body{
     height:100%;
     margin:0;
     padding:0;
+    background-color: rgb(255, 27, 27) ;
 }
 .container{
     width:75%;
@@ -37,7 +38,7 @@ h1,h2,h3{
     margin:2rem auto;
 }
 #main-header nav{
-    background-color: bisque;
+    background-color: white ;
     padding:2rem;
 }
 nav ul{
@@ -76,14 +77,14 @@ section .col{
 }
 
 #purpose .col{
-     background-color: bisque;
+     background-color: white;
 }
 #purpose .col:hover{
     background:radial-gradient(white,bisque);
 }
 footer #references{
     margin:2rem auto;
-    background-color: antiquewhite;
+    background-color: white;
     padding:1rem;
 }
 footer #references ol li{
