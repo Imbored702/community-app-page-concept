@@ -99,7 +99,7 @@ footer #references{
     background-color: white;
     padding:1rem;
 }
-footer #references > ol > li{
+footer #references > ul > li{
     margin:2rem auto;
     border: 10px solid black;
     padding: 8px 12px;
