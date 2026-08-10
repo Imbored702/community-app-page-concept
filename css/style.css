@@ -81,7 +81,7 @@ section .col{
      background-color: white;
 }
 #purpose .col:hover{
-    background:radial-gradient(white,);
+    background:radial-gradient(white,aliceblue);
 }
 footer #references{
     margin:2rem auto;
