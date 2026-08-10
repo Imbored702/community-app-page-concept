@@ -74,14 +74,13 @@ section .col{
     border:solid 1px aliceblue;
     padding:2rem;
     border-radius: 10px;
-    border-width: 10px;
 }
 
 #purpose .col{
      background-color: white;
 }
 #purpose .col:hover{
-    background:radial-gradient(white,aliceblue);
+    background:radial-gradient(white,bisque);
 }
 footer #references{
     margin:2rem auto;
