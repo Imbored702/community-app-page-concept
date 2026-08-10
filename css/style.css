@@ -80,12 +80,7 @@ section .col{
 #purpose .col{
      background-color: white;
 }
-#history .col{
-    background-color: white;
-}
-#history .col:hover{
-    background:radial-gradient(white, aliceblue);
-}
+
 #purpose .col:hover{
     background:radial-gradient(white,aliceblue);
 }
