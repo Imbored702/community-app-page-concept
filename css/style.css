@@ -80,9 +80,8 @@ section .col{
 #purpose .col{
      background-color: white;
 }
-
 #purpose .col:hover{
-    background:radial-gradient(white,aliceblue);
+    background:radial-gradient(white,);
 }
 footer #references{
     margin:2rem auto;
