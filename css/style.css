@@ -77,7 +77,7 @@ section .col{
     border-width: 10px;
 }
 
-#purpose, .col{
+#purpose .col{
      background-color: white;
 }
 #purpose .col:hover{
