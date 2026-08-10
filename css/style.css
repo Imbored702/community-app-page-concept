@@ -71,9 +71,10 @@ section#app{
 section .col{
     width:100%;
     margin:1rem auto;
-    border:solid 10px aliceblue;
+    border:solid 1px aliceblue;
     padding:2rem;
     border-radius: 10px;
+    border-width: 10px;
 }
 
 #purpose .col{
