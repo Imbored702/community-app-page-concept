@@ -77,16 +77,10 @@ section .col{
     border-width: 10px;
 }
 
-#purpose .col{
+#purpose #history .col{
      background-color: white;
 }
-#history .col{
-    background-color: white;
-}
-#history .col:hover{
-    background:radial-gradient(white, aliceblue);
-}
-#purpose .col:hover{
+#purpose #history .col:hover{
     background:radial-gradient(white,aliceblue);
 }
 footer #references{
