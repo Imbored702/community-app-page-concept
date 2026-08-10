@@ -71,7 +71,7 @@ section#app{
 section .col{
     width:100%;
     margin:1rem auto;
-    border:solid 1px aliceblue;
+    border:solid 10px aliceblue;
     padding:2rem;
     border-radius: 10px;
 }
@@ -80,7 +80,7 @@ section .col{
      background-color: white;
 }
 #purpose .col:hover{
-    background:radial-gradient(white,bisque);
+    background:radial-gradient(white,rgb(254, 157, 152));
 }
 footer #references{
     margin:2rem auto;
