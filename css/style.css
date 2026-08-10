@@ -82,6 +82,12 @@ section .col{
 #purpose .col:hover{
     background:radial-gradient(white,rgb(254, 157, 152));
 }
+#history .col{
+     background-color: white;
+}
+#history .col:hover{
+    background:radial-gradient(white,rgb(254, 157, 152));
+}
 footer #references{
     margin:2rem auto;
     background-color: white;
